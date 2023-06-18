@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppExe3Sorteador</string>
+    <string name="hint_edittext_limit">Valor máximo (opcional)</string>
+    <string name="btn_use_limit">usar limite</string>
+    <string name="default_output_mesage">Inicie o Sorteio</string>
+    <string name="btn_drawlots">sortear</string>
+    <string name="not_apply_border">Limite não aplicado.</string>
+    <string name="appled_border">Limite definido.</string>
+    <string name="limit_message">Sorteio de %d a %d.</string>
+    <string name="sorteio_de_1_a_100">Sorteio de 1 a 100</string>
+    <string name="n_meros_sorteados">Números sorteados:</string>
+</resources>
